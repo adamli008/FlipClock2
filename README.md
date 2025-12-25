@@ -7,7 +7,7 @@
 ## 中文介绍
 
 ### 简介
-FlipClock 是一款专为 macOS 设计的精美翻页时钟屏保应用。它以经典的翻页时钟为灵感，将传统的时间显示方式与现代数字美学完美结合，为您的 Mac 屏幕带来优雅而实用的视觉体验。
+FlipClock 是一款专为 macOS 设计的精美翻页时钟应用。它以经典的翻页时钟为灵感，将传统的时间显示方式与现代数字美学完美结合，为您的 Mac 屏幕带来优雅而实用的视觉体验。
 
 ### 主要特性
 
@@ -50,7 +50,7 @@ FlipClock 是一款专为 macOS 设计的精美翻页时钟屏保应用。它以
 ## English Description
 
 ### Introduction
-FlipClock is an elegant flip clock screensaver designed exclusively for macOS. Inspired by classic flip clocks, it seamlessly blends traditional time display with modern digital aesthetics, bringing a sophisticated and practical visual experience to your Mac screen.
+FlipClock is an elegant flip clock designed exclusively for macOS. Inspired by classic flip clocks, it seamlessly blends traditional time display with modern digital aesthetics, bringing a sophisticated and practical visual experience to your Mac screen.
 
 ### Key Features
 
